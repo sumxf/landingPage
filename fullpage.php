@@ -214,20 +214,57 @@
   </div>
 </nav>
 
-<div class="jumbotron text-center">
-  
-  <h1>Company</h1> 
-  <p>Machine Learning. Online</p> 
-  <form>
-    <div class="input-group">
-      <input type="email" class="form-control" size="50" placeholder="Email Address" required>
-      <div class="input-group-btn">
-        <button type="button" class="btn btn-danger">Subscribe</button>
-      </div>
-    </div>
-  </form>
-</div>
 
+<div class="container-fluid">
+  
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+
+      <div class="item active">
+        <img src="Logo1.jpg" alt="SUMXF" width="460" height="345">
+        <div class="carousel-caption">
+          <h3>SUMXF</h3>
+          <p>Welcome to SUMXF</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="Logo2.jpg" alt="ERJS" width="460" height="345">
+        <div class="carousel-caption">
+          <h3>ERJS</h3>
+          <p>ERJS - Analytics Online</p>
+        </div>
+      </div>
+    
+      <div class="item">
+        <img src="screenShot.jpg" alt="Flower" width="460" height="345">
+        <div class="carousel-caption">
+          <h3>Screen Shot</h3>
+          <p>ERJS - in action</p>
+        </div>
+      </div>
+
+  
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
 
   <div class = "row">
     <div class = "col-sm-6">
