@@ -265,7 +265,7 @@
       <span class="sr-only">Next</span>
     </a>
   </div>
-
+</div>
   <div class = "row">
     <div class = "col-sm-6">
       <br><br><br><br>
