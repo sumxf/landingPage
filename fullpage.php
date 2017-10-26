@@ -228,6 +228,46 @@
   </form>
 </div>
 
+
+  <div class = "row">
+    <div class = "col-sm-6">
+      <br><br><br><br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href = "https://login.shinyapps.io/login?redirect=%2Foauth%2Fauthorize%3Fshow_auth%3D0%26state%3D%26redirect_uri%3Dhttps%253A%252F%252Ferjs.shinyapps.io%252FsumxfNew01%252F__login__%252F%26response_type%3Dcode%26show_login%3D0%26client_application%3D95661%26client_signature%3D7924e37e2d26da03d8c5147b51dff55307d05607760bce00038aab8ff2ae0946%26client_id%3DE87881F52601DE697EF13011621DDDE6713C44968B8D2782" 
+         class = "btn btn-primary"> Login </a>
+         <br><br><br>
+      <!-- img src = "Logo1.jpg" class = "img-rounded" alt = "SUMXF" -->
+    </div>
+    <div class = "col-sm-6">
+  
+  <!--
+      <form role="form">
+  <div class="form-group">
+    <br><br>
+    <label for="email">Enter your email:</label>
+    <input type="email" class="form-control" id="email">
+  </div>
+  
+ 
+  <button type="submit" class="btn btn-default">Sign Up</button>
+  
+  -->
+  <br>
+  
+<Script Language='Javascript'>
+<!--
+//document.write(unescape('%3C%69%66%72%61%6D%65%20%73%72%63%20%3D%20%22%68%74%74%70%3A%2F%2F%65%72%6A%73%2E%69%6F%3A%33%38%33%38%2F%69%66%66%6D%64%2F%73%68%69%6E%79%5F%64%69%72%2F%72%73%43%6F%6E%6E%65%63%74%2F%22%20%73%63%72%6F%6C%6C%69%6E%67%3D%22%6E%6F%22%20%73%74%79%6C%65%3D%22%77%69%64%74%68%3A%20%34%35%30%70%78%3B%20%68%65%69%67%68%74%3A%20%32%30%30%70%78%3B%20%6F%76%65%72%66%6C%6F%77%3A%20%68%69%64%64%65%6E%3B%20%62%6F%72%64%65%72%3A%6E%6F%6E%65%3B%20%62%61%63%6B%67%72%6F%75%6E%64%3A%77%68%69%74%65%3B%22%3E%3C%2F%69%66%72%61%6D%65%3E'));
+//-->
+</Script>
+  
+  <?php
+ echo "<iframe src = \"https://erjs.shinyapps.io/rsConnect/\" scrolling=\"no\" style=\" width: 450px; height: 200px; overflow: hidden; border:none; background:white;\"></iframe>"
+  ?>
+</form>
+      
+     
+    </div>
+
 <!-- Container (About Section) -->
 <div id="about" class="container-fluid">
   <div class="row">
