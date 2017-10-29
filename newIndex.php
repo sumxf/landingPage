@@ -10,7 +10,15 @@
 </head>
 <body>
 
-<div class="jumbotron">
+
+<style>
+.jumbotron { 
+    background-color: #f4511e; /* Orange */
+    color: #ffffff;
+}
+</style>
+
+<div class="jumbotron text-center">
 <h1>Sumxf</h1> 
 <p>We specialize in analytics </p> 
 </div>
