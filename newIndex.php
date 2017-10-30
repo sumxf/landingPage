@@ -14,7 +14,7 @@
 <style>
 .jumbotron { 
     background-color: #f4511e; /* Orange */
-    color: #ffffff;
+    color: #000777;
 }
 </style>
 
