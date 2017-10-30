@@ -10,7 +10,6 @@
 </head>
 <body>
 
-
 <style>
 .jumbotron { 
     background-color: #000777; /* Orange */
@@ -19,9 +18,29 @@
 </style>
 
 <div class="jumbotron text-center">
-<h1>Sumxf</h1> 
-<p>We specialize in analytics </p> 
+<h1>SUMXF - ERJS</h1> 
+<p>Machine Learning. Anyone. Anywhere. </p> 
 </div>
+
+<style>
+.bg-grey {
+    background-color: #f6f6f6;
+}
+</style>
+
+<div class="container-fluid">
+  <h2>About SUMXF - ERJS</h2>
+  <h4>SUMXF is the parent company, and ERJS is our flagship machine learning platform.</h4> 
+  <p>ERJS came from the idea to simplify development and deployment of machine learning applications. You just log in, get in the data, auto analyze the information, build machine learning models and deploy web based predictive applications based on built models. There is no limitation on number of data sets one can use, or number of applications one deploys.</p>
+  <button class="btn btn-default btn-lg">Get in Touch</button>
+</div>
+
+<div class="container-fluid bg-grey">
+  <h2>Our Values</h2>
+  <h4><strong>MISSION:</strong> Our mission lorem ipsum..</h4> 
+  <p><strong>VISION:</strong> Our vision Lorem ipsum..
+</div>
+
 
 </body>
 </html>
