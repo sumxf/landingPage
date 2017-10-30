@@ -14,16 +14,11 @@
 .jumbotron { 
     background-color: #000777; /* Orange */
     color: #ffffff;
+     padding: 100px 25px;
 }
 </style>
 
 <style>
-.jumbotron {
-    background-color: #f4511e;
-    color: #fff;
-    padding: 100px 25px;
-}
-
 .container-fluid {
     padding: 60px 50px;
 }
