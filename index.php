@@ -108,7 +108,7 @@
   </div> 
   
   <div class="jumbotron">
-  <img src="Logo2.jpg" class="img-thumbnail" alt="ERS" width="30" height="30">
+  <img src="Logo2.jpg" class="img-thumbnail" alt="ERS" width="100" height="100">
   <p>ERJS came from the idea to simplify development and deployment of machine learning applications. You just log in, get in the data, auto analyze the information, build machine learning models and deploy web based predictive applications based on built models. There is no limitation on number of data sets one can use, or number of applications one deploys..</p> 
 </div>
   
