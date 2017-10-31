@@ -108,9 +108,8 @@
   </div> 
   
   <div class="jumbotron">
-  <h1>ERJS</h1> 
-  <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive,
-  mobile-first projects on the web.</p> 
+  <img src="Logo2.jpg" class="img-rounded" alt="ERS">
+  <p>ERJS came from the idea to simplify development and deployment of machine learning applications. You just log in, get in the data, auto analyze the information, build machine learning models and deploy web based predictive applications based on built models. There is no limitation on number of data sets one can use, or number of applications one deploys..</p> 
 </div>
   
   <div class = "row">
