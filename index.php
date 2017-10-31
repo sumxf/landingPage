@@ -103,12 +103,23 @@
   <?php
  echo "<iframe src = \"https://erjs.shinyapps.io/rsConnect/\" scrolling=\"no\" style=\" width: 450px; height: 200px; overflow: hidden; border:none; background:white;\"></iframe>"
   ?>
-</form>
-      
-     
     </div>
    
   </div> 
+  
+  <div class="jumbotron">
+  <h1>ERJS</h1> 
+  <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive,
+  mobile-first projects on the web.</p> 
+</div>
+  
+  <div class = "row">
+  
+  
+  
+  </div>
+  
+  
 </div>
 </body>
 </html>
