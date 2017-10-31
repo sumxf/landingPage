@@ -32,7 +32,7 @@
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="Logo1.jpg" alt="SUMXF" width="460" height="345">
+        <img src="Logo1.jpg" class="img-thumbnail" alt="SUMXF" width="460" height="345">
         <div class="carousel-caption">
           <h3>SUMXF</h3>
           <p>Welcome to SUMXF</p>
@@ -40,7 +40,7 @@
       </div>
 
       <div class="item">
-        <img src="Logo2.jpg" alt="ERJS" width="460" height="345">
+        <img src="Logo2.jpg" class="img-thumbnail" alt="ERJS" width="460" height="345">
         <div class="carousel-caption">
           <h3>ERJS</h3>
           <p>ERJS - Analytics Online</p>
@@ -48,7 +48,7 @@
       </div>
     
       <div class="item">
-        <img src="screenShot.jpg" alt="Flower" width="460" height="345">
+        <img src="screenShot.jpg" class="img-thumbnail" alt="Flower" width="460" height="345">
         <div class="carousel-caption">
           <h3>Screen Shot</h3>
           <p>ERJS - in action</p>
