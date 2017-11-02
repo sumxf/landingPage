@@ -1,75 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <title>SUMXF - ERJS</title>
+  <title>Sumxf - Automatic analytics for all!</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-  <style>
-  .carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-  }
-  </style>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
 
+<style>
+.jumbotron { 
+    background-color: #000777; /* Orange */
+    color: #ffffff;
+     padding: 100px 25px;
+}
+</style>
+
+<style>
+.container-fluid {
+    padding: 60px 50px;
+}
+</style>
+
+<style>
+.bg-grey {
+    background-color: #f6f6f6;
+}
+</style>
+
+<style>
+.logo {
+    font-size: 200px;
+}
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+        text-align: center;
+        margin: 25px 0;
+    }
+}
+</style>
+
+<div class="jumbotron text-center">
+<h1>SUMXF - ERJS</h1> 
+<p>Machine Learning. By Anyone. For Anyone. </p> 
+</div>
+
+<style>
+.bg-grey {
+    background-color: #f6f6f6;
+}
+
+.thumbnail {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+}
+
+.thumbnail img {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 10px;
+}
+
+</style>
+
 <div class="container-fluid">
-  
-  <div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-    </ol>
-
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
-
-      <div class="item active">
-        <img src="Logo1.jpg" class="img-thumbnail" alt="SUMXF" width="460" height="345">
-        <div class="carousel-caption">
-          <h3>SUMXF</h3>
-          <p>Welcome to SUMXF</p>
-        </div>
-      </div>
-
-      <div class="item">
-        <img src="Logo2.jpg" class="img-thumbnail" alt="ERJS" width="460" height="345">
-        <div class="carousel-caption">
-          <h3>ERJS</h3>
-          <p>ERJS - Analytics Online</p>
-        </div>
-      </div>
     
-      <div class="item">
-        <img src="screenShot.jpg" class="img-thumbnail" alt="Flower" width="460" height="345">
-        <div class="carousel-caption">
-          <h3>Screen Shot</h3>
-          <p>ERJS - in action</p>
-        </div>
-      </div>
-
-  
-    </div>
-
-    <!-- Left and right controls -->
-    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
-  
-  <div class = "row">
+    
+    <div class = "row">
     <div class = "col-sm-6">
       <br><br><br><br>
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -103,22 +103,31 @@
   <?php
  echo "<iframe src = \"https://erjs.shinyapps.io/rsConnect/\" scrolling=\"no\" style=\" width: 450px; height: 200px; overflow: hidden; border:none; background:white;\"></iframe>"
   ?>
+
     </div>
-   
-  </div> 
-  
-  <div class="jumbotron">
-  <img src="Logo2.jpg" class="img-thumbnail" alt="ERS" width="200" height="200">
-  <p>ERJS came from the idea to simplify development and deployment of machine learning applications. You just log in, get in the data, auto analyze the information, build machine learning models and deploy web based predictive applications based on built models. There is no limitation on number of data sets one can use, or number of applications one deploys..</p> 
+    </div>
+    
+    <div class="row">
+    <div class="col-sm-8">
+  <h2>About SUMXF - ERJS</h2>
+  <h4>SUMXF is the parent organization, and ERJS is our flagship machine learning platform.</h4> 
+  <p>ERJS came from the idea to simplify development and deployment of machine learning applications. You just log in, get in the data, auto analyze the information, build machine learning models and deploy web based predictive applications based on built models. There is no limitation on number of data sets one can use, or number of applications one deploys.</p>
+  <button class="btn btn-default btn-lg">Get in Touch</button>
 </div>
-  
-  <div class = "row">
-  
-  
-  
+
+
+
+
+<div class="col-sm-4">
+    <div class="thumbnail">
+        <img src="Logo2.jpg" alt="ERJS">
+        <p><strong>ERJS</strong></p>
+        <p>Create and share analytics</p>
+      </div>
+   <!--   <span class="glyphicon glyphicon-signal logo"></span> -->
+    </div>
   </div>
-  
-  
 </div>
+
 </body>
 </html>
