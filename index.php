@@ -141,7 +141,7 @@
   <br>
   <div class="row">
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-mouse-middle-click logo-small"></span>
+      <span class="glyphicon glyphicon-scissors logo-small"></span>
       <h4>Ease of use</h4>
       <p>Auto selection of features and models</p>
     </div>
@@ -159,7 +159,7 @@
     <br><br>
   <div class="row">
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-leaf logo-small"></span>
+      <span class="glyphicon glyphicon-send logo-small"></span>
       <h4>Publish</h4>
       <p>CLick of a button publish your predictive web application</p>
     </div>
