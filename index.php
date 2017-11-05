@@ -143,7 +143,7 @@
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-scissors logo-small"></span>
       <h4>Ease of use</h4>
-      <p>Auto selection of features and models</p>
+      <p>Auto selection of features and models. Web and Mobile.</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-fullscreen logo-small"></span>
@@ -161,15 +161,15 @@
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-send logo-small"></span>
       <h4>Publish</h4>
-      <p>CLick of a button publish your predictive web application</p>
+      <p>CLick of a button publish your predictive web and mobile application</p>
     </div>
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-certificate logo-small"></span>
+      <span class="glyphicon glyphicon-stats logo-small"></span>
       <h4>Visualization</h4>
       <p>Visualize and make sense of your data</p>
     </div>
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-wrench logo-small"></span>
+      <span class="glyphicon glyphicon-asterisk logo-small"></span>
       <h4>Machine Learning</h4>
       <p>Automatic machine training and build models</p>
     </div>
