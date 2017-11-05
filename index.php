@@ -64,6 +64,16 @@
     margin-bottom: 10px;
 }
 
+.logo-small {
+    color: #000777;
+    font-size: 50px;
+}
+
+.logo {
+    color: #000777;
+    font-size: 200px;
+}
+
 </style>
 
 <div class="container-fluid">
@@ -131,17 +141,17 @@
   <br>
   <div class="row">
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-off"></span>
+      <span class="glyphicon glyphicon-off logo-small"></span>
       <h4>POWER</h4>
       <p>Lorem ipsum dolor sit amet..</p>
     </div>
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-heart"></span>
+      <span class="glyphicon glyphicon-heart logo-small"></span>
       <h4>LOVE</h4>
       <p>Lorem ipsum dolor sit amet..</p>
     </div>
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-lock"></span>
+      <span class="glyphicon glyphicon-lock logo-small"></span>
       <h4>JOB DONE</h4>
       <p>Lorem ipsum dolor sit amet..</p>
     </div>
@@ -149,17 +159,17 @@
     <br><br>
   <div class="row">
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-leaf"></span>
+      <span class="glyphicon glyphicon-leaf logo-small"></span>
       <h4>GREEN</h4>
       <p>Lorem ipsum dolor sit amet..</p>
     </div>
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-certificate"></span>
+      <span class="glyphicon glyphicon-certificate logo-small"></span>
       <h4>CERTIFIED</h4>
       <p>Lorem ipsum dolor sit amet..</p>
     </div>
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-wrench"></span>
+      <span class="glyphicon glyphicon-wrench logo-small"></span>
       <h4>HARD WORK</h4>
       <p>Lorem ipsum dolor sit amet..</p>
     </div>
