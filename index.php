@@ -146,7 +146,7 @@
       <p>Auto selection of features and models</p>
     </div>
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-coins logo-small"></span>
+      <span class="glyphicon glyphicon-fullscreen logo-small"></span>
       <h4>Scalable</h4>
       <p>Multiple datasets, models, publications</p>
     </div>
