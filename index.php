@@ -161,17 +161,17 @@
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-leaf logo-small"></span>
       <h4>Publish</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
+      <p>CLick of a button publish your predictive web application</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-certificate logo-small"></span>
-      <h4>CERTIFIED</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
+      <h4>Visualization</h4>
+      <p>Visualize and make sense of your data</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-wrench logo-small"></span>
-      <h4>HARD WORK</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
+      <h4>Machine Learning</h4>
+      <p>Automatic machine training and build models</p>
     </div>
   </div>
 </div> 
