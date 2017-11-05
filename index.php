@@ -109,7 +109,7 @@
     
     <div class="row">
     <div class="col-sm-8">
-  <h2>About ERJS</h2>
+  <h2>About ERJS </h2> <span class="label label-warning">Beta</span> 
   <h4>ERJS is an online auto analytics platform.</h4> 
   <p>ERJS came from the idea to simplify development and deployment of machine learning applications. You just log in, get in the data, auto analyze the information, build machine learning models and deploy web based predictive applications based on built models. There is no limitation on number of data sets one can use, or number of applications one deploys.</p>
 </div>
