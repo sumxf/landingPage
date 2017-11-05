@@ -136,31 +136,31 @@
   </div>
   
  <div class="container-fluid text-center">
-  <h2>SERVICES</h2>
-  <h4>What we offer</h4>
+  <h2>Functionalities</h2>
+  <h4>What ERJS offers</h4>
   <br>
   <div class="row">
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-off logo-small"></span>
-      <h4>POWER</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
+      <h4>Ease of use</h4>
+      <p>Auto selection of features and models</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-heart logo-small"></span>
-      <h4>LOVE</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
+      <h4>Scalable</h4>
+      <p>Multiple datasets, models, publications</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-lock logo-small"></span>
-      <h4>JOB DONE</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
+      <h4>Secure</h4>
+      <p>Your data and models are fully secure</p>
     </div>
     </div>
     <br><br>
   <div class="row">
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-leaf logo-small"></span>
-      <h4>GREEN</h4>
+      <h4>Publish</h4>
       <p>Lorem ipsum dolor sit amet..</p>
     </div>
     <div class="col-sm-4">
