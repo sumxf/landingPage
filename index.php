@@ -141,7 +141,7 @@
   <br>
   <div class="row">
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-off logo-small"></span>
+      <span class="glyphicon glyphicons-mouse-middle-click logo-small"></span>
       <h4>Ease of use</h4>
       <p>Auto selection of features and models</p>
     </div>
