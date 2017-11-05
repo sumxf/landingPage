@@ -141,12 +141,12 @@
   <br>
   <div class="row">
     <div class="col-sm-4">
-      <span class="glyphicon glyphicons-mouse-middle-click logo-small"></span>
+      <span class="glyphicon glyphicon-mouse-middle-click logo-small"></span>
       <h4>Ease of use</h4>
       <p>Auto selection of features and models</p>
     </div>
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-heart logo-small"></span>
+      <span class="glyphicon glyphicon-coins logo-small"></span>
       <h4>Scalable</h4>
       <p>Multiple datasets, models, publications</p>
     </div>
