@@ -43,7 +43,7 @@
 </style>
 
 <div class="jumbotron text-center">
-<h1>ERJS</h1> <span class="label label-warning">beta</span>
+<h1>ERJS <span class="label label-warning">beta</span> </h1>
 <p>Machine Learning. By Anyone. For Anyone. </p> 
 </div>
 
@@ -101,10 +101,8 @@
 </Script>
   
   <?php
- echo "<div class=\"embed-responsive embed-responsive-21by9\">
- 
- <iframe class=\"embed-responsive-item\" src = \"https://erjs.shinyapps.io/rsConnect/\" scrolling=\"no\" style=\" width: 450px; height: 200px; overflow: hidden; border:none; background:white;\"></iframe>
-  </div>"
+ echo "
+ <iframe class=\"embed-responsive-item\" src = \"https://erjs.shinyapps.io/rsConnect/\" scrolling=\"no\" style=\" width: 450px; height: 200px; overflow: hidden; border:none; background:white;\"></iframe>"
   ?>
 
     </div>
