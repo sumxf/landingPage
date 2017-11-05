@@ -43,7 +43,7 @@
 </style>
 
 <div class="jumbotron text-center">
-<p></p><h1>ERJS</h1> <span class="badge">beta</span></p>
+<h1 style="display:inline;">ERJS</h1> <span class="badge">beta</span>
 <p>Machine Learning. By Anyone. For Anyone. </p> 
 </div>
 
