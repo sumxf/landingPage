@@ -43,7 +43,7 @@
 </style>
 
 <div class="jumbotron text-center">
-<h1>ERJS</h1> 
+<h1>ERJS</h1> <span class="label label-warning">beta</span>
 <p>Machine Learning. By Anyone. For Anyone. </p> 
 </div>
 
@@ -101,7 +101,10 @@
 </Script>
   
   <?php
- echo "<iframe src = \"https://erjs.shinyapps.io/rsConnect/\" scrolling=\"no\" style=\" width: 450px; height: 200px; overflow: hidden; border:none; background:white;\"></iframe>"
+ echo "<div class=\"embed-responsive embed-responsive-21by9\">
+ 
+ <iframe class=\"embed-responsive-item\" src = \"https://erjs.shinyapps.io/rsConnect/\" scrolling=\"no\" style=\" width: 450px; height: 200px; overflow: hidden; border:none; background:white;\"></iframe>
+  </div>"
   ?>
 
     </div>
@@ -109,7 +112,7 @@
     
     <div class="row">
     <div class="col-sm-8">
-  <h2>About ERJS </h2> <span class="label label-warning">Beta</span> 
+  <h2>About ERJS </h2>  
   <h4>ERJS is an online auto analytics platform.</h4> 
   <p>ERJS came from the idea to simplify development and deployment of machine learning applications. You just log in, get in the data, auto analyze the information, build machine learning models and deploy web based predictive applications based on built models. There is no limitation on number of data sets one can use, or number of applications one deploys.</p>
 </div>
