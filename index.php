@@ -8,7 +8,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-<body>
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
 
 <style>
 .jumbotron { 
@@ -55,7 +55,15 @@
     border-color: transparent;
     color: #fff !important;
 }
+
 </style>
+
+
+
+<div id="about" class="container-fluid">
+<div id="capabilities" class="container-fluid">
+<div id="login-signup" class="container-fluid">
+<div id="contact" class="container-fluid">
 
 <style>
 .logo {
