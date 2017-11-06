@@ -210,7 +210,7 @@
 </div> 
   
   <div id="contact" class="container-fluid bg-grey">
-  <h2 class="text-center">CONTACT</h2>
+  <h2 class="text-center">Contact</h2>
   <div class="row">
     <div class="col-sm-5">
       <p>Contact us and we'll get back to you within 24 hours.</p>
@@ -253,7 +253,7 @@
         <li><a href="#login-signup">Login / Sign Up</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#capabilities">Capabilities</a></li>
-        <li><a href="#contact">CONTACT</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
     </div>
   </div>
