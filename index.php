@@ -33,7 +33,7 @@
 <style>
   .navbar {
     margin-bottom: 0;
-    background-color: #f8f9f9;
+    background-color: #011c44;
     z-index: 9999;
     border: 0;
     font-size: 12px !important;
