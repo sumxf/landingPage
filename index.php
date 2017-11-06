@@ -136,7 +136,7 @@
   </div>
   
  <div class="container-fluid text-center">
-  <h2>Functionalities</h2>
+  <h2>Capabilities</h2>
   <h4>What ERJS offers</h4>
   <br>
   <div class="row">
