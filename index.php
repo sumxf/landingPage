@@ -8,7 +8,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-<body>
+<body id="mypage">
 
 <style>
 .jumbotron { 
@@ -269,7 +269,7 @@ footer .glyphicon {
   <a href="#myPage" title="To Top">
     <span class="glyphicon glyphicon-chevron-up"></span>
   </a>
-  <p>Bootstrap Theme Made By <a href="https://www.w3schools.com" title="Visit w3schools">www.w3schools.com</a></p> 
+  <p>ERJS - a product from <a href="https://www.sumxf.com" title="Visit sumxf">www.sumxf.com</a></p> 
 </footer>
 </div>
 
