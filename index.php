@@ -218,9 +218,7 @@
         <span class="icon-bar"></span> 
       </button>
       <a class="navbar-brand" href="#">
-      <div class="thumbnail-logo">
-        <img src="Logo2.jpg" alt="ERJS">
-      </div></a>
+      erjs.io</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
