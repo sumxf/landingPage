@@ -65,9 +65,8 @@
 }
 
 .thumbnail-logo img {
-    width: 10%;
-    height: 10%;
-    margin-bottom: 3px;
+    width: 5%;
+    height: 5%;
 }
 
 .logo-small {
