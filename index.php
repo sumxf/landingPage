@@ -84,7 +84,7 @@
 <div class="container-fluid">
     
     
-    <div class = "row">
+    <div id="login-signup" class = "row">
     <div class = "col-sm-6">
       <br><br><br><br>
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -123,7 +123,7 @@
     </div>
     </div>
     
-    <div class="row">
+    <div id="about" class="row">
     <div class="col-sm-8">
   <h2>About ERJS </h2>  
   <h4>ERJS is an online auto analytics platform.</h4> 
@@ -140,7 +140,7 @@
     </div>
   </div>
   
- <div class="container-fluid text-center">
+ <div id="capabilities" class="container-fluid text-center">
   <h2>Capabilities</h2>
   <h4>What ERJS offers</h4>
   <br>
@@ -222,10 +222,9 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#about">ABOUT</a></li>
-        <li><a href="#services">SERVICES</a></li>
-        <li><a href="#portfolio">PORTFOLIO</a></li>
-        <li><a href="#pricing">PRICING</a></li>
+        <li><a href="#login-signup">Login / Sign Up</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#capabilities">Capabilities</a></li>
         <li><a href="#contact">CONTACT</a></li>
       </ul>
     </div>
