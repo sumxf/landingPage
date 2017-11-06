@@ -64,6 +64,12 @@
     margin-bottom: 10px;
 }
 
+.thumbnail-logo img {
+    width: 10%;
+    height: 10%;
+    margin-bottom: 3px;
+}
+
 .logo-small {
     color: #000777;
     font-size: 50px;
@@ -213,7 +219,7 @@
         <span class="icon-bar"></span> 
       </button>
       <a class="navbar-brand" href="#">
-      <div class="thumbnail">
+      <div class="thumbnail-logo">
         <img src="Logo2.jpg" alt="ERJS">
       </div></a>
     </div>
