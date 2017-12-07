@@ -269,7 +269,7 @@ footer .glyphicon {
   <a href="#myPage" title="To Top">
     <span class="glyphicon glyphicon-chevron-up"></span>
   </a>
-  <p>ERJS - a product from <a href="http://www.sumxf.com" title="Visit sumxf">www.sumxf.com</a></p> 
+  <p><a href="http://www.erjs.io" title="Visit erjs">ERJS</a></p> 
 </footer>
 </div>
 
