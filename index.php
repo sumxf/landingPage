@@ -269,7 +269,7 @@ Publish the predictive capability for all to use.
         <li><a href="#login-signup">Login / Sign Up</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#capabilities">Capabilities</a></li>
-        <li><a href="http://learn.erjs.io">Learn</a></li>
+        <li><a href="https://docs.erjs.io">Docs</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
     </div>
