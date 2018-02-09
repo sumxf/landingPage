@@ -1,5 +1,6 @@
 <?php
 
+require_once 'swiftmailer/lib/swift_required.php';
 // ...
 
 // make sure you get these SMTP settings right
