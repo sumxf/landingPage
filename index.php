@@ -77,7 +77,7 @@ footer .glyphicon {
 </style>
 
 <div class="jumbotron text-center">
-<h1 style="display:inline;">ERJS</h1> <span class="label label-warning">beta</span>
+<h1 style="display:inline;">ERJS</h1> <span class="label label-warning">alpha</span>
 <p>Machine Learning. By Anyone. For Anyone. </p> 
 </div>
 
