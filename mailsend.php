@@ -19,21 +19,23 @@ $email =  $_POST['email'];
 $name =  $_POST['name'];
 $comments = $_POST['comments'];
 
-echo $email;
-echo "something";
-/*
-$mail->setFrom($email, $name);     //Set who the message is to be sent from
+//echo $email;
+//echo "something";
+
+$mail->setFrom($email, "erjs.io Feedback");     //Set who the message is to be sent from
 $mail->addReplyTo($email, $name);  //Set an alternative reply-to address
 $mail->addAddress('support@erjs.io', 'Support ERJS');  // Add a recipient
-$mail->addAddress('mainakd@gmail.com');               // Name is optional
-$mail->addCC('cc@example.com');
-$mail->addBCC('bcc@example.com');
+//$mail->addAddress('mainakd@gmail.com');               // Name is optional
+$mail->addCC('mainakd@gmail.com');
+$mail->addCC('navmay@gmail.com');
+$mail->addCC('sushree.preeti@gmail.com');
+//$mail->addBCC('bcc@example.com');
 $mail->WordWrap = 50;                                 // Set word wrap to 50 characters
 //$mail->addAttachment('/usr/labnol/file.doc');         // Add attachments
 //$mail->addAttachment('/images/image.jpg', 'new.jpg'); // Optional name
 $mail->isHTML(false);                                  // Set email format to HTML
-$mail->Subject = 'Feedback from ';
-$mail->Body    = 'back to comments';
+$mail->Subject = 'Feedback from '.$name;
+$mail->Body    = $comments;
 $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
 //Read an HTML message body from an external file, convert referenced images to embedded,
@@ -45,6 +47,6 @@ if(!$mail->send()) {
    echo 'Mailer Error: ' . $mail->ErrorInfo;
    exit;
 }
-*/
+
 echo 'Message has been sent';
 ?>
