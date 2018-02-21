@@ -234,7 +234,7 @@ Publish the predictive capability for all to use.
       <p><span class="glyphicon glyphicon-envelope"></span> support@erjs.io</p> 
     </div>
     <div class="col-sm-7">
-    <form action="send_mail.php">
+    <form action="mailsend.php">
       <div class="row">
        <div class="col-sm-6 form-group">
           <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
