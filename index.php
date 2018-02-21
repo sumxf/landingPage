@@ -209,7 +209,7 @@ Publish the predictive capability for all to use.
   <div class="row">
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-send logo-small"></span>
-      <h4>Publish</h4>
+      <h4>Publish 1</h4>
       <p>CLick of a button publish your predictive web and mobile application</p>
     </div>
     <div class="col-sm-4">
