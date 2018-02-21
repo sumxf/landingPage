@@ -48,5 +48,6 @@ if(!$mail->send()) {
    exit;
 }
 
-echo 'Message has been sent';
+echo 'Message has been sent. <BR>';
+echo 'Go back to <a href="https://www.erjs.io">ERJS.io</a>'
 ?>
