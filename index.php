@@ -243,7 +243,7 @@ Publish the predictive capability for all to use.
           <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
         </div>
       </div>
-      <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea><br>
+      <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5" required></textarea><br>
       <div class="row">
         <div class="col-sm-12 form-group">
           <button class="btn btn-default pull-right" type="submit">Send</button>
