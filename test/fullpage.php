@@ -298,7 +298,7 @@
 </Script>
   
   <?php
- echo "<iframe src = \"https://erjs.shinyapps.io/rsConnect/\" scrolling=\"no\" style=\" width: 450px; height: 200px; overflow: hidden; border:none; background:white;\"></iframe>"
+ echo "<iframe src = \"http://sumxf.com:3838/iffmd/shiny_dir/rsConnect/\" scrolling=\"no\" style=\" width: 450px; height: 200px; overflow: hidden; border:none; background:white;\"></iframe>"
   ?>
 </form>
       
