@@ -151,7 +151,7 @@ footer .glyphicon {
   
   <?php
  echo "
- <iframe class=\"embed-responsive-item\" src = \"http://sumxf.com:3838/iffmd/shiny_dir/rsConnect/\" scrolling=\"no\" style=\" width: 250px; height: 200px; overflow: hidden; border:none; background:white;\"></iframe>"
+ <iframe class=\"embed-responsive-item\" src = \"https://erjs.shinyapps.io/rsConnect/\" scrolling=\"no\" style=\" width: 250px; height: 200px; overflow: hidden; border:none; background:white;\"></iframe>"
   ?>
 
     </div>
