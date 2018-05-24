@@ -37,6 +37,7 @@ $mail->isHTML(false);                                  // Set email format to HT
 $mail->Subject = 'Feedback from '.$name;
 $mail->Body    = $comments;
 $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
+$mail->SMTPDebug = 2;
 
 //Read an HTML message body from an external file, convert referenced images to embedded,
 //convert HTML into a basic plain-text alternative body
