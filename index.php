@@ -118,7 +118,7 @@ footer .glyphicon {
 <div class="container-fluid">
     
     
-    <div id="login-signup" class = "row d-none">
+    <div id="login-signup" class = "row">
     <div class = "col-sm-6">
       <br><br><br><br>
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -268,7 +268,8 @@ Publish the predictive capability for all to use.
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#login-signup">Login / Sign Up</a></li>
+        <li><a href="#login-signup">Login</a></li>
+        <li><a href="#login-signup">Sign Up</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#capabilities">Capabilities</a></li>
         <li><a href="https://docs.erjs.io">Docs</a></li>
