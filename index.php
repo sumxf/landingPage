@@ -268,8 +268,8 @@ Publish the predictive capability for all to use.
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#login-signup">Login</a></li>
-        <li><a href="#login-signup">Sign Up</a></li>
+        <li><a href="https://login.shinyapps.io/login?redirect=%2Foauth%2Fauthorize%3Fshow_auth%3D0%26state%3D%26redirect_uri%3Dhttps%253A%252F%252Ferjs.shinyapps.io%252Fsumxfnew01%252F__login__%252F%26response_type%3Dcode%26show_login%3D0%26client_application%3D244524%26client_signature%3Daf15fa0f3d05b14ac888469475dbabedaed6873ef2003f355e605e0dfdefb444%26client_id%3DD6A344AB5B2FA6EC85D3D27F9FBE712996523F0C9C0258A7">Login</a></li>
+        <li><a href="https://erjs.shinyapps.io/rsConnect/">Sign Up</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#capabilities">Capabilities</a></li>
         <li><a href="https://docs.erjs.io">Docs</a></li>
