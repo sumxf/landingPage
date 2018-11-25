@@ -272,7 +272,7 @@ Publish the predictive capability for all to use.
         <li><a href="https://erjs.shinyapps.io/rsConnect/">Sign Up</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#capabilities">Capabilities</a></li>
-        <li><a href="https://docs.erjs.io">Docs</a></li>
+        <li><a href="https://erjs.gitbook.io/erjs">Docs</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
     </div>
