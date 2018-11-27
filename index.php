@@ -229,7 +229,7 @@ Publish the predictive capability for all to use.
   <h2 class="text-center">Contact</h2>
   <div class="row">
     <div class="col-sm-5">
-      <p>Contact us and we'll get back to you within 24 hours.</p>
+      <p>Contact us and we'll get back to you.</p>
       <p><span class="glyphicon glyphicon-map-marker"></span> San Jose, US; Bangalore, India</p>
       <p><span class="glyphicon glyphicon-envelope"></span> support@erjs.io</p> 
     </div>
