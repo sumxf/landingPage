@@ -179,21 +179,7 @@ footer .glyphicon {
     </div>
     -->
     <div id="about" class="row">
-    <div class="col-sm-8">
-  <h2>About ERJS </h2>  
-  <h4>ERJS. Technical Independence.</h4> 
-  <p>Have ideas but don’t know how to implement? Missing the platform? The technological edge? Want to avoid the dependency, delay and cost associated with hiring a technical
-  team to implement a platform? <BR><BR>
-Precisely what we provide in ERJS - the user friendly analytical platforms to apply analytics and implement your ideas to get results without any technological interventions
-at your end. <BR><BR>
-You do analytics, we handle the technology.				<BR><BR>
-
-At ERJS, our mission is to provide technical independence through an apt platform so that analytics users can focus on what they really want to do - Analytics.		
-Get your raw data and come to ERJS and enjoy the Technical Independence.									
-ERJS focuses on Predictions. Use your own raw data, analyze it, select out of the numerous models and predict. Save the model for later use. 
-Publish the predictive capability for all to use.
-  
-  </div>
+    
 
 <div class="col-sm-4">
     <div class="thumbnail">
