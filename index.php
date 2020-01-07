@@ -182,11 +182,12 @@ footer .glyphicon {
     
 
 <div class="col-sm-4">
-    <div class="thumbnail">
+ <!--   <div class="thumbnail">
         <img src="Logo2.jpg" alt="ERJS">
         <p><strong>ERJS</strong></p>
         <p>Create and share analytics</p>
       </div>
+      -->
    <!--   <span class="glyphicon glyphicon-signal logo"></span> -->
     </div>
   </div>
