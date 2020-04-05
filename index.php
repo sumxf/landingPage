@@ -115,7 +115,7 @@ footer .glyphicon {
 
 <div class="jumbotron text-center">
  
-<h1 style="display:inline;"><img src = "Logo2.jpg">  ERJS Logo</h1> <span class="label label-warning">alpha</span>
+<h1 style="display:inline;"><img src = "Logo2.jpg" class = "img-thumbnail" >  ERJS Logo</h1> <span class="label label-warning">alpha</span>
 <p>Machine Learning. By Anyone. For Anyone. </p> 
 </div>
 
