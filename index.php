@@ -115,13 +115,10 @@ footer .glyphicon {
 
 <div class="jumbotron text-center">
 
-<img src="Logo2.jpg" class="mw-10" alt="...">
-
 <!--<img src = "Logo2.jpg" class = "rounded"> -->
 
-<!-- 
-<h1 style="display:inline;"><img src = "Logo2.jpg" class = "img-thumbnail" >  ERJS Logo</h1> <span class="label label-warning">alpha</span>
--->
+
+<h1 style="display:inline;">ERJS.io</h1> <span class="label label-warning">alpha</span>
 <p>Machine Learning. By Anyone. For Anyone. </p> 
 </div>
 
