@@ -1,8 +1,7 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
-<!--
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131587965-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -12,40 +11,20 @@
   gtag('config', 'UA-131587965-1');
 </script>
 
--->
-
-
 <!-- Google Tag Manager -->
-<!--
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PJGKNG9');</script>
--->
 <!-- End Google Tag Manager -->
+
   <title>ERJS - Automatic analytics for all!</title>
-
-  <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> 
-
-  <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-  
-
-  <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body id="myPage">
 <!-- Google Tag Manager (noscript) -->
@@ -119,11 +98,7 @@ footer .glyphicon {
 </style>
 
 <div class="jumbotron text-center">
-
-<!--<img src = "Logo2.jpg" class = "rounded"> -->
-
-
-<h1 style="display:inline;">ERJS.io</h1> <span class="label label-warning">alpha</span>
+<h1 style="display:inline;">ERJS</h1> <span class="label label-warning">alpha</span>
 <p>Machine Learning. By Anyone. For Anyone. </p> 
 </div>
 
@@ -192,14 +167,12 @@ footer .glyphicon {
 <Script Language='Javascript'>
 <!--
 //document.write(unescape('%3C%69%66%72%61%6D%65%20%73%72%63%20%3D%20%22%68%74%74%70%3A%2F%2F%65%72%6A%73%2E%69%6F%3A%33%38%33%38%2F%69%66%66%6D%64%2F%73%68%69%6E%79%5F%64%69%72%2F%72%73%43%6F%6E%6E%65%63%74%2F%22%20%73%63%72%6F%6C%6C%69%6E%67%3D%22%6E%6F%22%20%73%74%79%6C%65%3D%22%77%69%64%74%68%3A%20%34%35%30%70%78%3B%20%68%65%69%67%68%74%3A%20%32%30%30%70%78%3B%20%6F%76%65%72%66%6C%6F%77%3A%20%68%69%64%64%65%6E%3B%20%62%6F%72%64%65%72%3A%6E%6F%6E%65%3B%20%62%61%63%6B%67%72%6F%75%6E%64%3A%77%68%69%74%65%3B%22%3E%3C%2F%69%66%72%61%6D%65%3E'));
-
 </Script>
   
   <?php
 // echo "
 // <iframe class=\"embed-responsive-item\" src = \"https://erjs.shinyapps.io/rsConnect/\" scrolling=\"no\" style=\" width: 250px; height: 200px; overflow: hidden; border:none; background:white;\"></iframe>"
   ?>
-
     </div>
     </div>
     -->
