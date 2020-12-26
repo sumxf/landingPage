@@ -273,7 +273,7 @@ footer .glyphicon {
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="https://erjs.shinyapps.io/newsumxf/">Login</a></li>
+        <li><a href="https://login.shinyapps.io/login?redirect=%2Foauth%2Fauthorize%3Fshow_auth%3D0%26state%3D%26redirect_uri%3Dhttps%253A%252F%252Ferjs.shinyapps.io%252Fnewsumxf%252F__login__%252F%26response_type%3Dcode%26show_login%3D0%26client_application%3D2762848%26client_signature%3D3708f33d4f11a17301dfd2328f3bdd7c4b5125a27bcb02cfc690abde4cef5c80%26client_id%3D611FAC18F97297B818195DD00F573A22051345D2DF4D03A9&setup=False">Login</a></li>
         <li><a href="https://erjs.shinyapps.io/rsConnect/">Sign Up</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#capabilities">Capabilities</a></li>
